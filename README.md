@@ -5,5 +5,5 @@
 ## 2. Outline of the file
 
 ### Homework1 
-### hw1-question 3[Deepblue_Course_2/first_version_cmake_practice/](url)
+### hw1-question 3[https://github.com/1f-small-Xue-study-today/Deepblue_Course_2/tree/main/first_version_cmake_practice](url)
 
