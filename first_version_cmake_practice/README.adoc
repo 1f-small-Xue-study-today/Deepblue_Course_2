@@ -1,3 +1,4 @@
+# This comes from his work: [cmake_example](https://github.com/ttroy50/cmake-examples)
 = Sub-Project Examples
 
 Many large projects are made up of different libraries and binaries. These
